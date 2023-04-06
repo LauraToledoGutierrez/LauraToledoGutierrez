@@ -1,7 +1,6 @@
-### Mi nombre es Laura Toledo 👋
-#### Estudiante de Ingeniería Informática en la Universidad de Castilla-La Mancha
+### Hi my name is Laura Toledo Gutierrez and I´m Computer Engineering in UCLM 👋
 
-##### Tengo conocimientos en:
+##### Languages and Tools:
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40px" height="40px"/>
