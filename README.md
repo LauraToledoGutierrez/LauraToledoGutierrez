@@ -18,3 +18,6 @@
  </p>
 
 
+##### My statistics:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LauraToledoGutierrez&show_icons=true&theme=tokyonight&hide_border=true"/>
+
