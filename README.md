@@ -14,8 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" alt="php" widht="40px" height="40px"/>
- 
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" widht="40px" height="40px"/>
  </p>
 
 
