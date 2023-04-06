@@ -17,6 +17,7 @@
  </p>
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraToledoGutierrez&show_icons=true&locale=en&layout=compact" alt="lauratoledogutierrez" /></p> -->
+
 ##### My statistics:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LauraToledoGutierrez&show_icons=true&theme=tokyonight&hide_border=true"/>
 
