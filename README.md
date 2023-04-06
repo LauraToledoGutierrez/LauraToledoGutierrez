@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" widht="40px" height="40px"/>
  </p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LauraToledoGutierrez&show_icons=true&locale=en&layout=compact" alt="lauratoledogutierrez" /></p>
 ##### My statistics:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LauraToledoGutierrez&show_icons=true&theme=tokyonight&hide_border=true"/>
 
