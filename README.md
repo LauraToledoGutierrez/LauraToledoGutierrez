@@ -4,7 +4,7 @@
 #### Tengo conocimientos en:
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="24px" height="24px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40px" height="40px"/>
  </p>
 
 
