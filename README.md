@@ -1,4 +1,4 @@
-### Hi my name is Laura Toledo Gutierrez and I´m Computer Engineering in UCLM 👋
+### Hi my name is Laura Toledo Gutierrez and I´m Computer Engineering student in UCLM 👋
 
 ##### Languages and Tools:
 
