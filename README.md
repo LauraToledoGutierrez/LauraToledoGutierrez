@@ -21,3 +21,6 @@
 ##### My statistics:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LauraToledoGutierrez&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+##### Social Media:
+
+[linkedin] www.linkedin.com/in/laura-toledo-gutiérrez-4427b5159
