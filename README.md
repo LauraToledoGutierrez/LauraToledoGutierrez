@@ -23,4 +23,4 @@
 
 ##### Social Media:
 
-[linkedin] www.linkedin.com/in/laura-toledo-gutiérrez-4427b5159
+[linkedin] (www.linkedin.com/in/laura-toledo-gutiérrez-4427b5159)
